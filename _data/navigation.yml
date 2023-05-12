@@ -1,8 +1,8 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Luoghi
   url: "/getting-started/"
   side: left
 
