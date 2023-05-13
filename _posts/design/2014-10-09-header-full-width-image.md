@@ -12,7 +12,7 @@ tags:
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
-    image_fullwidth: "test.jpg"
+    image_fullwidth: "vm.jpg"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
