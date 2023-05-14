@@ -6,10 +6,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: vm.jpg
+  image_fullwidth: foto.jpeg
 widget1:
   title: "Luogo cerimonia"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'https://vincenzoeminou.github.io/chiesa/'
   image: santacroce.png
   text: 'La cerimonia si svolgerà a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
 widget2:
