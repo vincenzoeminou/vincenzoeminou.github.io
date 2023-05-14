@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: vm.jpg
+  image_fullwidth: mv.jpg
 widget1:
   title: "Luogo cerimonia"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
