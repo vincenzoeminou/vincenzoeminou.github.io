@@ -6,22 +6,23 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: vm.jpeg
+  image_fullwidth: vm.jpg
 widget1:
   title: "Luogo cerimonia"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
+  image: chiesa.jpg
   text: 'La cerimonia si svolgerà a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
 widget2:
   title: "Location"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'Festeggeremo il nostro matrimonio tra il verde delle colline di San Miniato.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'Festeggeremo il nostro matrimonio tra il verde delle colline di San Miniato, presso <br> l&apos; Agriturismo Cafaggio.'
+  image: cafaggio.jpeg
+  #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Viaggio di nozze"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: 'Abbiamo deciso di fuggire qualche giorno a fine settembre. Qui puoi scoprire le tappe del nostro viaggio e, se vuoi, aiutarci a <br> realizzare questo sogno'
+  image: antelope.jpg
+  text: 'Abbiamo deciso di fuggire qualche giorno a fine settembre. Qui puoi scoprire le tappe del nostro viaggio e, se vuoi, aiutarci a <br> realizzare questo sogno.'
 #
 # Use the call for action to show a button on the frontpage
 #
