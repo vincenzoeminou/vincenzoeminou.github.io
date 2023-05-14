@@ -55,7 +55,7 @@
   side: left
   dropdown:
   - title: "Changelog"
-    url: "/changelog/"
+    url: "/chiesa/"
   - title: "Roadmap"
     url: "/roadmap/"
 
