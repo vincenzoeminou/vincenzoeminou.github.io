@@ -9,19 +9,19 @@ header:
   image_fullwidth: foto.jpeg
 widget1:
   title: "Luogo cerimonia"
-  url: 'https://vincenzoeminou.github.io/chiesa/'
+  url: 'https://vincenzoeminou.github.io/cerimonia/'
   image: santacroce.png
   text: 'La cerimonia si svolgerà a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
 widget2:
   title: "Location"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'https://vincenzoeminou.github.io/ricevimento/'
   text: 'Festeggeremo il nostro matrimonio tra il verde delle colline di San Miniato.'
   #, presso <br> l&apos; Agriturismo Cafaggio.'
   image: cafaggio.jpeg
   #video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Viaggio di nozze"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://vincenzoeminou.github.io/viaggio-di-nozze/'
   image: antelope.jpg
   text: 'Scopri le tappe del nostro viaggio e, se vuoi, aiutaci a realizzare questo sogno.'
 #
