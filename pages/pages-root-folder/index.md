@@ -14,7 +14,7 @@ widget1:
   text: 'La cerimonia si svolgerà a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
 widget2:
   title: "Location"
-  url: 'https://vincenzoeminou.github.io/ricevimento/'
+  url: 'https://vincenzoeminou.github.io/location/'
   text: 'Festeggeremo il nostro matrimonio tra il verde delle colline di San Miniato.'
   #, presso <br> l&apos; Agriturismo Cafaggio.'
   image: cafaggio.jpeg
