@@ -1,11 +1,12 @@
 ---
 layout: page
+header: no
 title: "Cerimonia"
 #subheadline: "Chiesa di Santa Croce in Fossabanda, Pisa"
 #teaser: "La cerimonia si svolgerà nella Chiesa di Santa Croce in Fossabanda, che si trova in Piazza Santa Croce in Fossabanda, 12, 56124 Pisa PI"
 permalink: "/cerimonia/"
-header:
-    image_fullwidth: "chiesa-di-santa-croce.jpg"
+image:
+    title: "chiesa-di-santa-croce.jpg"
 ---
 
 
