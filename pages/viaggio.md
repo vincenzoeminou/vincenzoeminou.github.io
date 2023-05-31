@@ -20,7 +20,7 @@ gallery:
       caption: Great images by Unsplash.com
     - image_url: Arches.jpg
       caption: Great images by Unsplash.com
-    - image_url: Death Valley.jpg
+    - image_url: Death valley.jpg
       caption: Great images by Unsplash.com
     - image_url: Grand canyon.jpg
       caption: Great images by Unsplash.com
