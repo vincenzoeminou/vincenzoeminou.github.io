@@ -17,33 +17,33 @@ gallery:
     - image_url: 0.jpg
       caption: Great images by Unsplash.com
     - image_url: Antelope Canyon.jpg
-      caption: Great images by Unsplash.com
+      caption: Antelope Canyon.com
     - image_url: Arches.jpg
-      caption: Great images by Unsplash.com
+      caption: Arches National Park
     - image_url: Death valley.jpg
-      caption: Great images by Unsplash.com
+      caption: Death valley
     - image_url: Grand canyon.jpg
-      caption: Great images by Unsplash.com
+      caption: Grand canyon
     - image_url: Las Vegas 6.jpg
-      caption: Great images by Unsplash.com
+      caption: Las Vegas
     - image_url: Los Angeles 9.jpg
-      caption: Great images by Unsplash.com
+      caption: Los Angeles
     - image_url: Los Angeles.jpg
-      caption: Great images by Unsplash.com
+      caption: Hollywood
     - image_url: Monument Valley.jpg
-      caption: Great images by Unsplash.com
+      caption: Monument Valley
     - image_url: San Diego.jpg
-      caption: Great images by Unsplash.com
+      caption: San Diego
     - image_url: San Francisco.jpg
-      caption: Great images by Unsplash.com
+      caption: San Francisco
     - image_url: Sanata Monica.jpg
-      caption: Great images by Unsplash.com
+      caption: Sanata Monica
     - image_url: Santa Barbara.jpg
-      caption: Great images by Unsplash.com      
+      caption: Santa Barbara     
     - image_url: Sequoia tree 1.jpg
-      caption: Great images by Unsplash.com      
+      caption: Sequoia Tree Park   
     - image_url: Yosemite 2.jpg
-      caption: Great images by Unsplash.com     
+      caption: Yosemite Park   
 ---
 
 Il 23 Settembre partiremo per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
