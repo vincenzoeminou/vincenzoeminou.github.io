@@ -20,29 +20,29 @@ gallery:
       caption: Antelope Canyon.com
     - image_url: Arches.jpg
       caption: Arches National Park
-    - image_url: Death valley.jpg
+    - image_url: Death valley.png
       caption: Death valley
     - image_url: Grand canyon.jpg
       caption: Grand canyon
-    - image_url: Las Vegas 6.jpg
+    - image_url: Las Vegas 6.png
       caption: Las Vegas
     - image_url: Los Angeles 9.jpg
       caption: Los Angeles
-    - image_url: Los Angeles.jpg
+    - image_url: Los Angeles.png
       caption: Hollywood
-    - image_url: Monument Valley.jpg
+    - image_url: Monument Valley.png
       caption: Monument Valley
-    - image_url: San Diego.jpg
+    - image_url: San Diego.png
       caption: San Diego
-    - image_url: San Francisco.jpg
+    - image_url: San Francisco.png
       caption: San Francisco
-    - image_url: Sanata Monica.jpg
+    - image_url: Sanata Monica.png
       caption: Sanata Monica
-    - image_url: Santa Barbara.jpg
+    - image_url: Santa Barbara.png
       caption: Santa Barbara     
-    - image_url: Sequoia tree 1.jpg
+    - image_url: Sequoia tree 1.png
       caption: Sequoia Tree Park   
-    - image_url: Yosemite 2.jpg
+    - image_url: Yosemite 2.png
       caption: Yosemite Park   
 ---
 

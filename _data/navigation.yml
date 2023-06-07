@@ -15,14 +15,14 @@
   url: "/viaggio-di-nozze/"
   side: left
   
-# - title: Documentation
-#   url: "/documentation/"
-#   side: left
-#   dropdown:
-#   - title: "Changelog"
-#     url: "/chiesa/"
-#   - title: "Roadmap"
-#     url: "/roadmap/"
+- title: Celebrazione
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: "Libretto Messa"
+    url: "/messa/"
+  - title: "Canti"
+    url: "/canti/"
 
 
 # - title: "Search"
