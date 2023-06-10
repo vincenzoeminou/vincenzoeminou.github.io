@@ -20,29 +20,29 @@ gallery:
       caption: Antelope Canyon.com
     - image_url: Arches.jpg
       caption: Arches National Park
-    - image_url: Death valley.png
+    - image_url: Death valley.jpg
       caption: Death valley
     - image_url: Grand canyon.jpg
       caption: Grand canyon
-    - image_url: Las Vegas 6.png
+    - image_url: Las Vegas 6.jpg
       caption: Las Vegas
     - image_url: Los Angeles 9.jpg
       caption: Los Angeles
-    - image_url: Los Angeles.png
+    - image_url: Los Angeles.jpg
       caption: Hollywood
-    - image_url: Monument Valley.png
+    - image_url: Monument Valley.jpg
       caption: Monument Valley
-    - image_url: San Diego.png
+    - image_url: San Diego.jpg
       caption: San Diego
-    - image_url: San Francisco.png
+    - image_url: San Francisco.jpg
       caption: San Francisco
-    - image_url: Sanata Monica.png
+    - image_url: Sanata Monica.jpg
       caption: Sanata Monica
-    - image_url: Santa Barbara.png
+    - image_url: Santa Barbara.jpg
       caption: Santa Barbara     
-    - image_url: Sequoia tree 1.png
+    - image_url: Sequoia tree 1.jpg
       caption: Sequoia Tree Park   
-    - image_url: Yosemite 2.png
+    - image_url: Yosemite 2.jpg
       caption: Yosemite Park   
 ---
 
@@ -54,6 +54,6 @@ Le immagini che trovate nelle nostre partecipazioni sono tutte tappe del nostro 
 
 Se desiderate farci un regalo, vi saremmo grati se voleste contribuire ad aiutarci a realizzare questo sogno, che è un'esperienza che porteremo nel cuore per sempre. 
 
-Potete farlo attraverso un bonifico a queste cordinate bancarie o attraverso PayPal. 
+Potete farlo attraverso un <a href="../coordinate-bancarie">bonifico</a> o attraverso <a href="https://www.paypal.com/paypalme/minoum94">PayPal</a>. 
 
-Vi ringraziamo di cuore per qualsiasi contributo e per accompagnarci moralmente in questa bellissima avventura (che è il nostro matrimonio, non solo il viaggio.. :) ) 
+Vi ringraziamo di cuore per qualsiasi contributo e per accompagnarci moralmente in questa bellissima avventura.
