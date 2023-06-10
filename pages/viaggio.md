@@ -5,17 +5,17 @@ title: "Il nostro viaggio"
 permalink: "/viaggio-di-nozze/"
 gallery:
     - image_url: 0000000.jpg
-      caption: Great images by Unsplash.com
+      caption: Route 66
     - image_url: 000000.jpg
-      caption: Great images by Unsplash.com
+      caption: Monument Valley
     - image_url: 00000.jpg
-      caption: Great images by Unsplash.com
+      caption: West Coast
     - image_url: 0000.jpg
-      caption: Great images by Unsplash.com
+      caption: Death Valley
     - image_url: 000.jpg
-      caption: Great images by Unsplash.com
+      caption: Monument Valley
     - image_url: 0.jpg
-      caption: Great images by Unsplash.com
+      caption: On the road 
     - image_url: Antelope Canyon.jpg
       caption: Antelope Canyon.com
     - image_url: Arches.jpg
@@ -48,7 +48,7 @@ gallery:
 
 Il 23 Settembre partiremo per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
 
-Le immagini che trovate nelle nostre partecipazioni sono tutte tappe del nostro viaggio. 
+Le immagini che avete trovato nelle nostre partecipazioni sono tutte tappe del nostro viaggio. 
 
 {% include gallery %}
 
