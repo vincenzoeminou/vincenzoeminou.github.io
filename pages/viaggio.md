@@ -54,6 +54,6 @@ Le immagini che avete trovato nelle nostre partecipazioni sono tutte tappe del n
 
 Se desiderate farci un regalo, vi saremmo grati se voleste contribuire ad aiutarci a realizzare questo sogno, che è un'esperienza che porteremo nel cuore per sempre. 
 
-Potete farlo attraverso un <a href="../coordinate-bancarie">bonifico</a> o attraverso <a href="https://www.paypal.com/paypalme/minoum94">PayPal</a>. 
+Potete farlo attraverso un <a href="../coordinate-bancarie">bonifico</a> o attraverso <a href="https://www.paypal.com/paypalme/minoum94">PayPal</a> (Importante! selezionare la voce "Amici e parenti" altrimenti PayPal trattiene una commissione). 
 
 Vi ringraziamo di cuore per qualsiasi contributo e per accompagnarci moralmente in questa bellissima avventura.

@@ -11,12 +11,11 @@
   side: left
  
 
-- title: "Il nostro viaggio"
+- title: Il nostro viaggio 🎁
   url: "/viaggio-di-nozze/"
   side: left
   
 - title: Celebrazione
-  url: "/documentation/"
   side: left
   dropdown:
   - title: "Libretto Messa"
