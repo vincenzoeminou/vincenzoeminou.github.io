@@ -28,6 +28,6 @@
 #   url: "/search/"
 #   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Conferma il tuo posto 🛩️"
+  url: "/conferma/"
   side: right
