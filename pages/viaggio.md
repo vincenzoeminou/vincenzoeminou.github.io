@@ -46,7 +46,7 @@ gallery:
       caption: Yosemite Park   
 ---
 
-Il 24 Settembre partiremo da San Francisco per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
+Il 24 Settembre inizieremo un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
 
 Le immagini che avete trovato nelle nostre partecipazioni sono tutte tappe del nostro viaggio. 
 
