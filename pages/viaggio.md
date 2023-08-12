@@ -46,25 +46,14 @@ gallery:
       caption: Yosemite Park   
 ---
 
-Il 23 Settembre partiremo per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
+Il 24 Settembre partiremo da San Francisco per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
 
 Le immagini che avete trovato nelle nostre partecipazioni sono tutte tappe del nostro viaggio. 
 
 {% include gallery %}
 
-
-Il 24 Settembre partiremo da San Francisco per un viaggio on the road nella West Coast, partendo da San Francisco e visitando i più grandi parchi americani, per rientrare poi a Los Angeles il 13 Ottobre. 
-
-
 Se desiderate farci un regalo, vi saremmo grati se voleste contribuire ad aiutarci a realizzare questo sogno, che è un'esperienza che porteremo nel cuore per sempre. 
 
-Potete farlo attraverso PayPal  (Importante! selezionare la voce "Amici e familiari" altrimenti PayPal trattiene una commissione) o attraverso bonifico: <br>
-
-Conto corrente intestato a: <strong>Vincenzo Aliberti</strong> <br>
-IBAN: <strong>IT36Z0347501605CC0012543847</strong> <br>
-Causale: <strong>Regalo Vincenzo e Minou</strong>    
-
-Link Paypal: https://www.paypal.com/paypalme/minoum94  
-
+Potete farlo attraverso <a href="https://www.paypal.com/paypalme/minoum94">PayPal</a>  (Importante! selezionare la voce "Amici e familiari" altrimenti PayPal trattiene una commissione) o attraverso <a href="/coordinate-bancarie/">bonifico.</a> <br>
 
 Vi ringraziamo di cuore per qualsiasi contributo e per accompagnarci moralmente in questa bellissima avventura. ♡ 

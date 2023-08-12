@@ -11,7 +11,7 @@ widget1:
   title: "Luogo cerimonia"
   url: 'https://vincenzoeminou.github.io/cerimonia/'
   image: santacroce.png
-  text: 'La cerimonia si svolgerà a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
+  text: 'La cerimonia si svolgerà il 9/9/23 a Pisa, nella Chiesa di Santa Croce in Fossabanda.'
 widget2:
   title: "Location"
   url: 'https://vincenzoeminou.github.io/location/'

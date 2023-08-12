@@ -1,9 +1,7 @@
 ---
 layout              : page
 header              : no
-permalink           : "/messa/"
-image:
-    title: Minou Anastasia e Vincenzo       
+permalink           : "/messa/"       
 ---
 
 ### Riti di introduzione
@@ -250,42 +248,77 @@ chiediamo al Signore che,<br>
 sostenuti dall'esempio e dall'intercessione dei santi,<br>
 essi custodiscano nella fedeltà il loro vincolo coniugale.<br>
 
+Per Vincenzo e Minou, <br>
+Che la promessa che vi scambiate oggi sia sempre costante nel tempo, <br>
+che vi sposiate e scegliate tutti i giorni della vostra vita. <br>
 
-Ora, in comunione con la Chiesa del cielo,
-invochiamo l'intercessione dei santi.
+*Ascoltaci, Signore*
 
+"Per Minou e Vincenzo, perché non si stanchino mai <br>
+di vedere il bello l'uno nell'altra<br>
+e in ogni giorno assieme, Preghiamo"<br>
 
+*Ascoltaci, Signore*
 
-Santa Maria, Madre di Dio,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Maria, Madre della Chiesa,&emsp;&emsp;&emsp; &emsp; &emsp;prega per noi <br>
-Santa Maria, Regina della famiglia,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-San Giuseppe, Sposo di Maria,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
+Preghiamo per Minou e Vincenzo, perché la loro famiglia sia ricca di amore <br>
+e di rispetto e siano sempre sinceri e fedeli l'uno verso l'altra, <br>
+perché la loro vita insieme sia un perfetto equilibrio <br>
+tra il dare e il ricevere. <br>
+Preghiamo affinché la fede li accompagni durante tutto il loro cammino <br>
+tenendoli sempre per mano. <br>
 
-Santi Angeli di Dio,&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santi Gioacchino e Anna,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santi Zaccaria ed Elisabetta,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-San Giovanni Battista,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santi Pietro e Paolo,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santi Apostoli ed Evangelisti,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santi Martiri di Cristo,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
+*Ascoltaci, Signore*
 
-Santi Aquila e Priscilla,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santi Mario e Marta,&emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
-Santa Monica,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-San Paolino,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Brigida,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Rita, &emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Francesca Romana,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-San Tommaso Moro,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Giovanna Beretta Molla,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
+Signore ti preghiamo per le famiglie, perchè riescano a trovare sempre <br>
+un momento per fermarsi e ricordare quanto amore le circonda, <br>
+partendo dal tuo.<br>
+Ti preghiamo per questa nuova famiglia, perché conservi non solo <br>
+la capacità di donarsi, ma anche la meraviglia e la gioia nel farlo. <br>
 
-San Francesco,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Chiara, &emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-San Ranieri,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-San Vincenzo,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
-Santa Anastasia,&emsp;&emsp;&emsp;&emsp;&emsp;prega per noi <br>
+*Ascoltaci, Signore*
 
-Santi e Sante tutti di Dio, &emsp;&emsp;&emsp;&emsp;&emsp;pregate per noi <br>
+"Non andate mai a letto senza fare la pace", così <br>
+dice papa Francesco e così Signore noi ti preghiamo di preparare <br>
+Minou e Vincenzo a fare lo stesso. <br>
+Perché sappiano guardare ai propri errori e agli errori<br>
+dell'altro con mitezza e che possano addormentarsi <br>
+insieme e risvegliarsi semore l'uno accanto all'altra.<br>
+
+*Ascoltaci, Signore*
+
+Ora, in comunione con la Chiesa del cielo,<br>
+invochiamo l'intercessione dei santi.<br>
+
+Santa Maria, Madre di Dio, prega per noi <br>
+Santa Maria, Madre della Chiesa, prega per noi <br>
+Santa Maria, Regina della famiglia, prega per noi <br>
+San Giuseppe, Sposo di Maria, prega per noi <br>
+
+Santi Angeli di Dio, pregate per noi <br>
+Santi Gioacchino e Anna, pregate per noi <br>
+Santi Zaccaria ed Elisabetta pregate per noi <br>
+San Giovanni Battista, prega per noi <br>
+Santi Pietro e Paolo, pregate per noi <br>
+Santi Apostoli ed Evangelisti, pregate per noi <br>
+Santi Martiri di Cristo, pregate per noi <br>
+
+Santi Aquila e Priscilla, pregate per noi <br>
+Santi Mario e Marta, pregate per noi <br>
+Santa Monica, prega per noi <br>
+San Paolino, prega per noi <br>
+Santa Brigida, prega per noi <br>
+Santa Rita, prega per noi <br>
+Santa Francesca Romana, prega per noi <br>
+San Tommaso Moro, prega per noi <br>
+Santa Giovanna Beretta Molla, prega per noi <br>
+
+San Francesco, prega per noi <br>
+Santa Chiara, prega per noi <br>
+San Ranieri, prega per noi <br>
+San Vincenzo, prega per noi <br>
+Santa Anastasia, rega per noi <br>
+
+Santi e Sante tutti di Dio, pregate per noi <br>
 
 Effondi, Signore, su Minou e Vincenzo. <br>
 lo Spirito del tuo amore, <br>
