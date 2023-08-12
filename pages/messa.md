@@ -289,36 +289,36 @@ insieme e risvegliarsi semore l'uno accanto all'altra.<br>
 Ora, in comunione con la Chiesa del cielo,<br>
 invochiamo l'intercessione dei santi.<br>
 
-Santa Maria, Madre di Dio, prega per noi <br>
-Santa Maria, Madre della Chiesa, prega per noi <br>
-Santa Maria, Regina della famiglia, prega per noi <br>
-San Giuseppe, Sposo di Maria, prega per noi <br>
+Santa Maria, Madre di Dio, *prega per noi* <br>
+Santa Maria, Madre della Chiesa, *prega per noi* <br>
+Santa Maria, Regina della famiglia, *prega per noi* <br>
+San Giuseppe, Sposo di Maria, *prega per noi* <br>
 
-Santi Angeli di Dio, pregate per noi <br>
-Santi Gioacchino e Anna, pregate per noi <br>
-Santi Zaccaria ed Elisabetta pregate per noi <br>
-San Giovanni Battista, prega per noi <br>
-Santi Pietro e Paolo, pregate per noi <br>
-Santi Apostoli ed Evangelisti, pregate per noi <br>
-Santi Martiri di Cristo, pregate per noi <br>
+Santi Angeli di Dio, *pregate per noi* <br>
+Santi Gioacchino e Anna, *pregate per noi* <br>
+Santi Zaccaria ed Elisabetta, *pregate per noi* <br>
+San Giovanni Battista, *prega per noi* <br>
+Santi Pietro e Paolo, *pregate per noi* <br>
+Santi Apostoli ed Evangelisti, *pregate per noi* <br>
+Santi Martiri di Cristo, *pregate per noi* <br>
 
-Santi Aquila e Priscilla, pregate per noi <br>
-Santi Mario e Marta, pregate per noi <br>
-Santa Monica, prega per noi <br>
-San Paolino, prega per noi <br>
-Santa Brigida, prega per noi <br>
-Santa Rita, prega per noi <br>
-Santa Francesca Romana, prega per noi <br>
-San Tommaso Moro, prega per noi <br>
-Santa Giovanna Beretta Molla, prega per noi <br>
+Santi Aquila e Priscilla, *pregate per noi* <br>
+Santi Mario e Marta, *pregate per noi* <br>
+Santa Monica, *prega per noi* <br>
+San Paolino, *prega per noi* <br>
+Santa Brigida, *prega per noi* <br>
+Santa Rita, *prega per noi* <br>
+Santa Francesca Romana, *prega per noi* <br>
+San Tommaso Moro, *prega per noi* <br>
+Santa Giovanna Beretta Molla, *prega per noi* <br>
 
-San Francesco, prega per noi <br>
-Santa Chiara, prega per noi <br>
-San Ranieri, prega per noi <br>
-San Vincenzo, prega per noi <br>
-Santa Anastasia, rega per noi <br>
+San Francesco, *prega per noi* <br>
+Santa Chiara, *prega per noi* <br>
+San Ranieri, *prega per noi* <br>
+San Vincenzo, *prega per noi* <br>
+Santa Anastasia, *prega per noi* <br>
 
-Santi e Sante tutti di Dio, pregate per noi <br>
+Santi e Sante tutti di Dio, *pregate per noi* <br>
 
 Effondi, Signore, su Minou e Vincenzo. <br>
 lo Spirito del tuo amore, <br>
