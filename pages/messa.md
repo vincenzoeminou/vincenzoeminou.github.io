@@ -4,19 +4,85 @@ header              : no
 permalink           : "/messa/"       
 ---
 
+### Ingresso dello sposo
+
+#### Le nozze di Cana 
+
+<br>Danzano con gioia, le figlie d'Israele <br>
+Le nozze sono pronte per il figlio del re <br>
+Alleluia, alleluia, per il figlio del re (per il figlio del re) <br>
+Alleluia, alleluia, per il figlio del re <br>
+A Cana, in Galilea, nel nome del Signore <br>
+Gli sposi han giurato amore e fedeltà <br>
+Coi cembali e coi flauti le danze fan corona (coi cembali e coi flauti) <br>
+Il vino sulla mensa il cuor rallegrerà <br>
+Danzano con gioia, le figlie d'Israele <br>
+Le nozze sono pronte per il figlio del re <br>
+Alleluia, alleluia, per il figlio del re (per il figlio del re) <br>
+Alleluia, alleluia, per il figlio del re <br>
+Nel mezzo della festa il vino viene meno <br>
+Non hanno più la gioia, la danza finirà <br>
+La madre dice ai servi (udite la parola) <br>
+"Udite la parola che il figlio mio vi dona, lui vi disseterà" <br>
+Danzano con gioia, le figlie d'Israele <br>
+Le nozze sono pronte per il figlio del re <br>
+Alleluia, alleluia, per il figlio del re (per il figlio del re) <br>
+Alleluia, alleluia, per il figlio del re <br>
+Si arrossano le coppe di vino nuovo, colme <br>
+È il dono dello sposo per nuova fedeltà <br>
+Danziamo, allor, fratelli, del re noi siamo figli (danziamo, fratelli) <br>
+A lui cantiamo lodi, per sempre, alleluia <br>
+Danzano con gioia, le figlie d'Israele <br>
+Le nozze sono pronte per il figlio del re <br>
+Alleluia, alleluia, per il figlio del re <br>
+Alleluia, alleluia, per il figlio del re <br>
+Danzano con gioia, le figlie d'Israele <br>
+Le nozze sono pronte per il figlio del re <br>
+Danzano con gioia per il figlio del re <br>
+Danzano con gioia per il figlio del re <br>
+Danzano con gioia per il figlio del re <br> <br>
+
+<hr>
+
+### Ingresso della sposa 
+
+#### Vieni e seguimi
+
+<br>Lascia che il mondo vada per la sua strada. <br>
+Lascia che l'uomo ritorni alla sua casa. <br>
+Lascia che la gente accumuli la sua fortuna. <br>
+Ma tu, tu vieni e seguimi, tu vieni e seguimi. <br>
+
+Lascia che la barca in mare spieghi la vela. <br>
+Lascia che trovi affetto chi segue il cuore. <br>
+Lascia che dall'albero cadano i frutti maturi. <br>
+Ma tu, tu vieni e seguimi, tu vieni e seguimi. <br>
+
+E sarai luce per gli uomini <br>
+e sarai sale della terra <br>
+e nel mondo deserto aprirai <br>
+una strada nuova. (2v) <br>
+
+E per questa strada va', va' <br>
+e non voltarti indietro, va' <br>
+
+...e non voltarti indietro. <br>
+
+<hr>
+
 ### Riti di introduzione
 
-Nel nome del Padre, del Figlio e dello Spirito Santo.
+<br>Nel nome del Padre, del Figlio e dello Spirito Santo.
 
-R. Amen
+**Amen**
 
 La grazia del Signore nostro Gesù Cristo, l'amore di Dio Padre e la comunione dello Spirito Santo, sia con tutti voi.
 
-R. E con il tuo spirito
+**E con il tuo spirito**
 
 ### Memoria del battesimo
 
-Fratelli e sorelle, 
+<br>Fratelli e sorelle, 
 ci siamo riuniti con gioia nella casa del Signore
 nel giorno in cui Minou e Vincenzo
 intendono formare la loro famiglia.
@@ -39,12 +105,20 @@ Divenuti figli nel Figlio,
 riconosciamo con gratitudine il dono ricevuto,
 per rimanere fedeli all'amore a cui siamo stati chiamati.
 
+Padre, nel Battesimo del tuo figlio Gesù al fiume Giordano hai rivelato al mondo l'amore sponsale per il tuo popolo
+
+**Noi ti lodiamo e ti rendiamo grazie.**
+
+Cristo Gesù, dal tuo costato aperto sulla Croce hai generato la Chiesa, tua diletta sposa.
+
+**Noi ti lodiamo e ti rendiamo grazie.**
+
 Spirito Santo,
 potenza del Padre e del Figlio,
 oggi fai risplendere in Minou e Vincenzo
 la veste nuziale della Chiesa.
 
-R. Noi ti lodiamo e ti rendiamo grazie.
+**Noi ti lodiamo e ti rendiamo grazie.**
 
 Dio onnipotente,
 origine e fonte della vita,
@@ -57,14 +131,40 @@ accolgano il dono del Matrimonio,
 nuova via della loro santificazione.
 Per Cristo nostro Signore.
 
-R. Amen.
+**Amen**
+
+<hr>
+
+#### Manda il tuo spirito
+
+**Manda il tuo Spirito, manda il tuo Spirito** <br>
+**Manda il tuo Spirito, Signore, su di noi** <br>
+**Manda il tuo Spirito, manda il tuo Spirito** <br>
+**Manda il tuo Spirito, Signore, su di noi**  <br>
+
+La tua presenza noi invochiamo per esser come tu ci vuoi <br>
+Manda il tuo Spirito, Signore, su di noi <br>
+Impareremo ad amare proprio come ami tu <br>
+Un sol corpo e un solo spirito saremo <br>
+Un sol corpo e un solo spirito saremo <br>
+
+La tua sapienza noi invochiamo <br>
+Sorgente eterna del tuo amore <br>
+Dono radioso che dà luce ai figli tuoi <br>
+Nel tuo amore confidiamo, la tua grazia ci farà <br>
+Chiesa unita e santa per l'eternità <br>
+Chiesa unita e santa per l'eternità <br>
+
+<hr>
+
+Ascolta, o Signore, la nostra preghiera ed effondi con bontà la tua grazia su Vincenzo e Minou, perché, unendosi davanti al tuo altare, siano confermati nel reciproco amore. Per il nostro Signore Gesuù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli. **Amen** 
 
 ### Liturgia della parola
 
 #### Dal Cantico dei Cantici (Ct 2,8-16; 8,6-7)
 
 
-Una voce! Il mio diletto!
+<br>Una voce! Il mio diletto!
 Eccolo, viene saltando per i monti, balzando per le colline.
 Somiglia il mio diletto a un capriolo o ad un cerbiatto.
 Eccolo, egli sta dietro il nostro muro; guarda dalla finestra, spia attraverso le inferriate.
@@ -84,7 +184,7 @@ Parola di Dio.
 
 ####  SALMO RESPONSORIALE (Sal 148)
 
-_Rit. Lodiamo insieme il Signore: sia benedetto il suo nome._
+<br>_Rit. Lodiamo insieme il Signore: sia benedetto il suo nome._
 
 Lodate il Signore dai cieli, <br>
 lodatelo nell’alto dei cieli. <br>
@@ -117,24 +217,24 @@ per i figli di Israele, popolo che egli ama. Rit.<br>
 
 #### Dalla lettera agli Ebrei 13, l-4a.5-6
 
-Fratelli, perseverate nell'amore fraterno. Non dimenticate L’ospitalità; alcuni, praticandola, hanno accolto degli angeli senza saperlo. Ricordatevi dei carcerati, come se foste loro compagni di carcere, e di quelli che sono maltrattati, in quanto anche voi siete in un corpo mortale. Il matrimonio sia rispettato da tutti e il talamo sia senza macchia.
+<br>Fratelli, perseverate nell'amore fraterno. Non dimenticate L’ospitalità; alcuni, praticandola, hanno accolto degli angeli senza saperlo. Ricordatevi dei carcerati, come se foste loro compagni di carcere, e di quelli che sono maltrattati, in quanto anche voi siete in un corpo mortale. Il matrimonio sia rispettato da tutti e il talamo sia senza macchia.
 La vostra condotta sia senza avarizia; accontentatevi di quello che avete, perché Dio stesso ha detto: Non ti lascerò e non ti abbandonerò. Così possiamo dire con fiducia: Il Signore è il mio aiuto, non temerò. Che mi potrà fare l'uomo?
 
 Parola di Dio.
 
 #### Canto al Vangelo  Cf Mt 6, 33
 
-R.  Alleluia, alleluia.
+**Alleluia, alleluia.**
 
 Cercate prima di tutto il regno di Dio <br>
 e ogni cosa vi sarà data in aggiunta. <br>
 
-R.  Alleluia.
+**Alleluia.**
 
 
 #### Dal Vangelo secondo Matteo  6, 25-34
 
-In quel tempo, Gesù disse ai suoi discepoli:
+<br>In quel tempo, Gesù disse ai suoi discepoli:
 
 «Io vi dico: per la vostra vita non affannatevi di quello che mangerete o berrete, e neanche per il vostro corpo, di quello che indosserete; la vita forse non vale più del cibo e il corpo più del vestito?
 
@@ -151,7 +251,7 @@ Parola del Signore.
 
 ### Liturgia del matrimonio
 
-Carissimi Minou e Vincenzo, <br>
+<br>Carissimi Minou e Vincenzo, <br>
 siete venuti nella casa del Signore, <br>
 davanti al ministro della Chiesa e davanti alla comunità, <br>
 perché la vostra decisione di unirvi in Matrimonio<br>
@@ -183,7 +283,7 @@ Sposi: Sì.
 
 ### Manifestazione del consenso
 
-Alla presenza di Dio <br>
+<br>Alla presenza di Dio <br>
 e davanti alla Chiesa qui riunita, <br>
 datevi la mano destra ed esprimete il vostro consenso.<br>
 Il Signore, inizio e compimento del vostro amore,<br>
@@ -212,16 +312,17 @@ che avete manifestato davanti alla Chiesa<br>
 e vi ricolmi della sua benedizione.<br>
 L’uomo non osi separare ciò che Dio unisce.<br>
 
-R. Amen.
+**Amen**
+
 
 ### Benedizione e consegna degli anelli
 
-Signore, benedici e santifica l'amore di questi sposi:<br>
+<br>Signore, benedici e santifica l'amore di questi sposi:<br>
 l’anello che porteranno come simbolo di fedeltà<br>
 li richiami continuamente al vicendevole amore.<br>
 Per Cristo nostro Signore.<br>
 
-R. Amen.
+**Amen**
 
 Minou Anastasia, ricevi questo anello,<br>
 segno del mio amore e della mia fedeltà.<br>
@@ -235,12 +336,12 @@ e dello Spirito Santo.<br>
 
 Benediciamo il Signore.
 
-R. A lui onore e gloria nei secoli.
+**A lui onore e gloria nei secoli.**
 
 
 ### Preghiera dei fedeli e invocazione dei santi
 
-Fratelli e sorelle,<br>
+<br>Fratelli e sorelle,<br>
 consapevoli del singolare dono di grazia e carità,<br>
 per mezzo del quale Dio ha voluto rendere perfetto<br>
 e consacrare l'amore dei nostri fratelli Minou e Vincenzo,<br>
@@ -286,6 +387,14 @@ insieme e risvegliarsi semore l'uno accanto all'altra.<br>
 
 *Ascoltaci, Signore*
 
+Per Vincenzo e Minou, in questo giorno di gioia e amore, <br>
+perché abbiano la resilienza di un albero che sfida il vento e la pioggia, <br>
+l'amore incondizionato di un sole d'estate che splende senza mai stancarsi <br>
+e la complicità di due stelle che danzano insieme nella notte. <br>
+Che la vostra unione sia un faro luminoso di speranza e ispirazione per tutti noi. <br>
+
+*Ascoltaci, Signore*
+
 Ora, in comunione con la Chiesa del cielo,<br>
 invochiamo l'intercessione dei santi.<br>
 
@@ -327,129 +436,38 @@ nulla separi questi sposi che tu hai unito, <br>
 e, ricolmati della tua benedizione, nulla li affligga. <br>
 Per Cristo nostro Signore. <br>
 
-R. Amen.
+**Amen**
 
-### Liturgia Eucaristica
+<hr>
 
-#### Orazioni sulle offerte
+#### Ecco quel che abbiamo 
 
-Accogli con benevolenza, o Signore, i doni che ti offriamo con gioia e
-custodisci con paterno amore Minou e Vincenzo che hai uniti con il sacramento
-nuziale. Per Cristo nostro Signore.
+<br>**Ecco quel che abbiamo nulla ci appartiene ormai** <br>
+**ecco i frutti della terra che tu moltiplicherai.** <br>
+**Ecco queste mani, puoi usarle se lo vuoi** <br>
+**per dividere nel mondo il pane che tu hai dato a noi** <br>
 
-R. Amen
 
-Il Signore sia con voi. 
+Solo una goccia hai messo fra le mani mie  <br>
+solo una goccia che tu ora chiedi a me, <br>
+una goccia che, in mano a Te,  <br>
+una pioggia diventerà e la terra feconderà. <br>
 
-R.E con il tuo spirito.
+Le nostre gocce, pioggia fra le mani tue,  <br>
+saranno linfa di una nuova civiltà  <br>
+e la terra preparerà la festa del pane  <br>
+che ogni uomo condividerà. <br>
 
-In alto i nostri cuori. 
+Sulle strade, il vento da lontano porterà  <br>
+il profumo del frumento, che tutti avvolgerà.  <br>
+E sarà l'amore che il raccolto spartirà  <br>
+e il miracolo del pane in terra si ripeterà. <br>
 
-R. Sono rivolti al Signore.
-
-Rendiamo grazie al Signore nostro Dio.
-
-R. È cosa buona e giusta.
-
-È veramente cosa buona e giusta, nostro dovere e fonte di salvezza rendere
-grazie sempre e ogni luogo a te Signore, Padre santo, Dio onnipotente ed
-eterno. <br>
-Nella tua benevolenza hai creato l’uomo e la donna e li hai innalzati a così
-grande dignità da imprimere nella loro unione la vera immagine del tuo
-amore. <br>
-Così la tua immensa bontà, che in principio ha creato l’umana famiglia, la
-chiama a vivere la sua vocazione di amore verso la gioia di una comunione
-senza fine. <br>
-E in questo disegno stupendo il sacramento che consacra l’amore umano ci
-dona un segno e una primizia della tua carità, per Cristo Signore nostro.
-Per mezzo di lui, uniti agli angeli e a tutti i santi, cantiamo senza fine
-l’inno della tua lode:
-
-Santo, santo, santo il Signore, Dio dell’universo. I cieli e la terra sono pieni
-della tua gloria. Osanna, osanna nell’alto dei cieli. Benedetto colui che
-viene nel nome del Signore. Osanna nell’alto dei cieli.
-
-#### Preghiera Eucaristica
-
-Veramente santo sei tu, o Padre, ed è giusto che ogni creatura ti lodi. Per
-mezzo del tuo Figlio, il Signore nostro Gesù Cristo, nella potenza dello
-Spirito Santo fai vivere e santifichi l’universo, e continui a radunare
-intorno a te un popolo che, dall’oriente all’occidente, offra al tuo nome il
-sacrificio perfetto. <br>
-Ti preghiamo umilmente: santifica e consacra con il tuo Spirito i doni che ti
-abbiamo presentato, perché diventino il Corpo e ✚ il Sangue del tuo
-Figlio, il Signore nostro Gesù Cristo, che ci ha comandato di celebrare
-questi misteri. <br>
-Egli, nella notte in cui veniva tradito, prese il pane, rese grazie con la
-preghiera di benedizione, lo spezzò, lo diede ai suoi discepoli e disse:
-
-Prendete, e mangiatene tutti: <br>
-questo è il mio Corpo<br>
-offerto in sacrificio per voi.<br>
-
-Allo stesso modo, dopo aver cenato, prese il calice, ti rese grazie con la
-preghiera di benedizione, lo diede ai suoi discepoli e disse:
-
-Prendete, e bevetene tutti: <br>
-questo è il calice del mio sangue<br>
-per la nuova ed eterna alleanza, <br>
-versatoper voi e per tutti <br>
-in remissione dei peccati.<br>
-
-Fate questo in memoria di me.
-
-Mistero della fede.
-
-R. Tu ci hai redenti con la tua croce e la tua resurrezione:<br>
-salvaci, o Salvatore del mondo.<br>
-
-Celebrando il memoriale della passione redentrice del tuo Figlio, della sua
-mirabile risurrezione e ascensione al cielo, nell’attesa della sua venuta
-nella gloria, ti offriamo, o Padre, in rendimento di grazie, questo sacrificio
-vivo e santo. <br>
-Guarda con amore e riconosci nell’offerta della tua Chiesa, la vittima
-immolata per la nostra redenzione, e a noi, che ci nutriamo del Corpo e del
-Sangue del tuo Figlio, dona la pienezza dello Spirito Santo, perché
-diventiamo in Cristo un solo corpo e un solo spirito. <br>
-Lo Spirito Santo faccia di noi un’offerta perenne a te gradita, perché
-possiamo ottenere il regno promesso con i tuoi eletti: con la Beata Maria,
-Vergine e Madre di Dio, san Giuseppe, suo sposo, i tuoi santi apostoli, i
-gloriosi martiri, San Ranieri e tutti i santi, nostri intercessori presso di te. <br>
-Ti preghiamo, o Padre, questo sacrificio della nostra riconciliazione doni
-pace e salvezza al mondo intero. Conferma nella fede e nell’amore la tua
-Chiesa pellegrina sulla terra: il tuo servo e nostro vescovo Papa Francesco,
-il nostro vescovo Giovanni Paolo, l’ordine episcopale, i presbiteri, i diaconi e il popolo che tu hai redento. <br>
-Sostieni nella grazia del Matrimonio Minou e Vincenzo, che hai condotto felicemente al
-giorno delle nozze: con il tuo aiuto custodiscano per tutta la vita l’alleanza
-sponsale che hanno stretto davanti a te. <br>
-Ascolta la preghiera di questa famiglia che hai convocata alla tua
-presenza. Ricongiungi a te, Padre misericordioso, tutti i tuoi figli ovunque dispersi.
-Accogli nel tuo regno i nostri fratelli e sorelle defunti, e tutti coloro che, in
-pace con te, hanno lasciato questo mondo; concedi anche a noi di ritrovarci
-insieme a godere per sempre della tua gloria, in Cristo, nostro Signore, per
-mezzo del quale tu, o Dio, doni al mondo ogni bene. <br>
-Per Cristo, con Cristo e in Cristo, a te, Dio Padre onnipotente, nell’unità
-dello Spirito Santo, ogni onore e gloria, per tutti i secoli dei secoli.
-
-R. Amen.
-
-### Riti di comunione
-
-Il Signore ci ha donato il suo spirito. <br>
-Con la fiducia e la libertà dei figli diciamo insieme: 
-
-Padre nostro, che sei nei cieli,<br>
-sia santificato il tuo nome,<br>
-venga il tuo regno, sia fatta la tua volontà,<br>
-come in cielo così in terra.<br>
-Dacci oggi il nostro pane quotidiano<br>
-e rimetti a noi i nostri debiti<br>
-come anche noi li rimettiamo ai nostri debitori,<br>
-non abbandonarci alla tentazione, ma liberaci dal male. <br>
+<hr>
 
 ### Benedizione nunziale
 
-Fratelli e sorelle, <br>
+<br>Fratelli e sorelle, <br>
 invochiamo su questi sposi, Minou e Vincenzo,<br>
 la benedizione di Dio:<br>
 egli, che oggi li ricolma di grazia<br>
@@ -461,8 +479,8 @@ nel tuo disegno d'amore hai creato l'uomo e la donna<br>
 perché, nella reciproca dedizione,<br>
 con tenerezza e fecondità vivessero lieti nella comunione.<br>
 
-          [V. Ti lodiamo, Signore, e ti benediciamo
-          R. Eterno è il tuo amore per noi]
+**V. Ti lodiamo, Signore, e ti benediciamo**<br>
+**R. Eterno è il tuo amore per noi**
 
 Quando venne la pienezza dei tempi<br>
 hai mandato il tuo Figlio, nato da donna.<br>
@@ -480,16 +498,16 @@ e tu, o Padre, hai rivelato un amore<br>
 sconosciuto ai nostri occhi,<br>
 un amore disposto a donarsi senza chiedere nulla in cambio.<br>
 
-          [V. Ti lodiamo, Signore, e ti benediciamo
-          R. Eterno è il tuo amore per noi]
+**V. Ti lodiamo, Signore, e ti benediciamo** <br>
+**R. Eterno è il tuo amore per noi**
 
 Con l'effusione dello Spirito del Risorto<br>
 hai concesso alla Chiesa<br>
 di accogliere nel tempo la tua grazia<br>
 e di santificare i giorni di ogni uomo.<br>
 
-          [V. Ti lodiamo, Signore, e ti benediciamo
-          R. Eterno è il tuo amore per noi]
+**V. Ti lodiamo, Signore, e ti benediciamo**<br>
+**R. Eterno è il tuo amore per noi**
 
 Ora, Padre, guarda Minou e Vincenzo,<br>
 che si affidano a te:<br>
@@ -501,8 +519,8 @@ diventino Vangelo vivo tra gli uomini.<br>
 Siano guide sagge e forti dei figli<br>
 che allieteranno la loro famiglia e la comunità.<br>
 
-          [V. Ti supplichiamo, Signore
-          R. Ascolta la nostra preghiera]
+**V. Ti supplichiamo, Signore**<br>
+**R. Ascolta la nostra preghiera**
 
 Siano lieti nella speranza,<br>
 forti nella tribolazione,<br>
@@ -513,8 +531,8 @@ Non rendano a nessuno male per male,<br>
 benedicano e non maledicano,<br>
 vivano a lungo e in pace con tutti.<br>
 
-          [V. Ti supplichiamo, Signore
-          R. Ascolta la nostra preghiera]
+**V. Ti supplichiamo, Signore**<br>
+**R. Ascolta la nostra preghiera**
 
 Il loro amore, Padre,<br>
 sia seme del tuo regno.<br>
@@ -523,42 +541,184 @@ fino al giorno in cui potranno,<br>
 con i loro cari, lodare in eterno il tuo nome.<br>
 Per Cristo nostro Signore.<br>
 
-R. Amen.
+**Amen.**
 
-"Vi do un comandamento nuovo: che vi amate gli uni gli altri <br>
-come io ho amato voi", dice il Signore. 
+<hr>
+
+#### Lode al nome tuo 
+
+<br>Lode al nome tuo dalle terre più floride <br>
+Dove tutto sembra vivere, lode al nome tuo <br>
+Lode al nome tuo dalle terre più aride <br>
+Dove tutto sembra sterile, lode al nome tuo <br>
+Tornerò a lodarti sempre per ogni dono tuo <br>
+E quando scenderà la notte, sempre io dirò <br>
+Benedetto il nome del Signor <br>
+Lode al nome tuo <br>
+Benedetto il nome del Signor <br>
+Il glorioso nome di Gesù <br>
+Lode al nome tuo quando il sole splende su di me <br>
+Quando tutto è incantevole, lode al nome tuo <br>
+Lode al nome tuo quando io sto davanti a te <br>
+Con il cuore triste e fragile, lode al nome tuo <br>
+Tornerò a lodarti sempre per ogni dono tuo <br>
+E quando scenderà la notte, sempre io dirò <br>
+Benedetto il nome del Signor <br>
+Lode al nome tuo <br>
+Benedetto il nome del Signor <br>
+Il glorioso nome di Gesù <br>
+Tu doni e porti via <br>
+Tu doni e porti via <br>
+Ma sempre sceglierò <br>
+Di benedire te <br>
+Tornerò a lodarti sempre <br>
+Per ogni dono tuo <br>
+E quando scenderà la notte <br>
+Sempre io dirò <br>
+Benedetto il nome del Signor <br>
+Lode al nome tuo <br>
+Benedetto il nome del Signor <br>
+Lode al nome tuo <br>
+Benedetto il nome del Signor <br>
+Lode al nome tuo <br>
+Benedetto il nome del Signor <br>
+Il glorioso nome di Gesù <br>
+Tu doni e porti via <br>
+Tu doni e porti via <br>
+Ma sempre sceglierò <br>
+Di benedire te <br>
+Tu doni e porti via <br>
+Tu doni e porti via <br>
+Ma sempre sceglierò <br>
+Di benedire te <br><br>
+
+<hr>
 
 ### Orazione dopo la comunione
 
-Signore, che ci hai fatto partecipi della tua mensa, concedi a Minou e Vincenzo, da te uniti con il sacramento nuziale, di essere sempre fedeli e di annunciare il tuo nome ai fratelli. <br>
+<br>Signore, che ci hai fatto partecipi della tua mensa, concedi a Minou e Vincenzo, da te uniti con il sacramento nuziale, di essere sempre fedeli e di annunciare il tuo nome ai fratelli. <br>
 Per Cristo nostro Signore.
 
 ### Riti di conclusione
 
-Dio, eterno Padre, <br>
+<br>Dio, eterno Padre, <br>
 vi conservi uniti nel reciproco amore;<br>
 la pace di Cristo abiti in voi<br>
 e rimanga sempre nella vostra casa.<br>
-R. Amen.<br>
+
+**Amen.** 
 
 Abbiate benedizione nei figli,<br>
 conforto dagli amici, vera pace con tutti.<br>
-R. Amen.<br>
+
+**Amen.** 
 
 Siate nel mondo testimoni dell'amore di Dio<br>
 perché i poveri e i sofferenti,<br>
 che avranno sperimentato la vostra carità,<br>
 vi accolgano grati un giorno nella casa del Padre.<br>
-R. Amen.<br>
+
+**Amen.** 
 
 E su voi tutti,<br>
 che avete partecipato a questa liturgia nuziale,<br>
 scenda la benedizione di Dio onnipotente,<br>
 Padre e Figlio e Spirito Santo.<br>
-R. Amen.
+
+**Amen.** 
  
 Nella Chiesa e nel mondo siate testimoni <br>
 del dono della vita e dell'amore che avete celebrato.<br>
 Andate in pace.<br>
 
-R. Rendiamo grazie a Dio. 
+**Rendiamo grazie a Dio.**
+
+<hr>
+
+#### Come ti ama Dio
+
+<br>Io vorrei saperti amare come Dio <br>
+che ti prende per mano ma ti lascia anche andare. <br>
+Vorrei saperti amare senza farti mai domande, <br>
+felice perchè esisti e così io posso darti il meglio di me. <br> 
+
+Con la forza del mare, l'eternità dei giorni, <br>
+la gioia dei voli, La pace della sera, <br>
+l'immensità del cielo: come ti ama Dio. <br>
+
+Io vorrei saperti amare come ti ama Dio <br>
+che ti conosce e ti accetta come sei. <br>
+Tenerti fra le mani come voli nell'azzurro, <br>
+felice perchè esisti e così io posso darti il meglio di me. <br>
+
+Io vorrei saperti amare come Dio <br>
+che ti rende migliore con l'amore che ti dona. <br>
+Seguirti fra la gente con la gioia che hai di dentro, <br>
+felice perchè esisti e così io posso darti il meglio di me. <br><br>
+
+<hr>
+
+#### Tutto è possibile
+
+<br>Questo è il luogo che Dio ha scelto per te, <br>
+questo è il tempo pensato per te <br>
+Quella che vedi è la strada che lui traccerà <br>
+E quello che senti l’Amore che mai finirà <br>
+
+E andremo e annunceremo che in Lui tutto è possibile <br>
+E andremo e annunceremo che nulla ci può vincere <br>
+Perché abbiamo udito le Sue parole <br>
+Perché abbiam veduto vite cambiare <br>
+Perché abbiamo visto l’Amore vincere <br>
+Sì abbiamo visto l’Amore vincere <br>
+
+Questo è il momento che Dio ha atteso per te, <br>
+questo è il sogno che ha fatto su te <br>
+Quella che vedi è la strada tracciata per te <br>
+Quello che senti, l’Amore che t’accompagnerà. <br>
+
+E andremo... <br>
+
+Questo è il tempo che Dio ha scelto per te, <br>
+questo è il sogno che aveva su te <br><br>
+ 
+<hr>
+
+#### Il canto dell'amore 
+
+<br>Se dovrai attraversare il deserto <br>
+Non temere io sarò con te <br>
+Se dovrai camminare nel fuoco <br>
+La sua fiamma non ti brucerà <br>
+
+Seguirai la mia luce nella notte <br>
+Sentirai la mia forza nel cammino <br>
+Io sono il tuo Dio, il Signore <br>
+
+Sono io che ti ho fatto e plasmato <br> 
+Ti ho chiamato per nome <br>
+Io da sempre ti ho conosciuto <br>
+E ti ho dato il mio amore <br>
+
+Perché tu sei prezioso ai miei occhi <br>
+Vali più del più grande dei tesori <br>
+Io sarò con te dovunque andrai <br>
+
+Non pensare alle cose di ieri <br>
+Cose nuove fioriscono già <br>
+Aprirò nel deserto sentieri <br>
+Darò acqua nell'aridità <br>
+
+Perché tu sei prezioso ai miei occhi <br>
+Vali più del più grande dei tesori <br>
+Io sarò con te dovunque andrai <br>
+Dovunque andrai <br>
+
+Perché tu sei prezioso ai miei occhi <br>
+Vali più del più grande dei tesori <br>
+Io sarò con te dovunque andrai<br>
+
+Io ti sarò accanto sarò con  <br>
+Per tutto il tuo viaggio sarò con te <br>
+Io ti sarò accanto sarò con te <br>
+Per tutto il tuo viaggio sarò con te <br>
