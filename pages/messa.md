@@ -138,7 +138,7 @@ Per Cristo nostro Signore.
 
 #### Manda il tuo spirito
 
-**Manda il tuo Spirito, manda il tuo Spirito** <br>
+<br>**Manda il tuo Spirito, manda il tuo Spirito** <br>
 **Manda il tuo Spirito, Signore, su di noi** <br>
 **Manda il tuo Spirito, manda il tuo Spirito** <br>
 **Manda il tuo Spirito, Signore, su di noi**  <br>
@@ -158,7 +158,7 @@ Chiesa unita e santa per l'eternità <br>
 
 <hr>
 
-Ascolta, o Signore, la nostra preghiera ed effondi con bontà la tua grazia su Vincenzo e Minou, perché, unendosi davanti al tuo altare, siano confermati nel reciproco amore. Per il nostro Signore Gesuù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli. **Amen** 
+Ascolta, o Signore, la nostra preghiera ed effondi con bontà la tua grazia su Vincenzo e Minou, perché, unendosi davanti al tuo altare, siano confermati nel reciproco amore. Per il nostro Signore Gesù Cristo, tuo Figlio, che è Dio, e vive e regna con te, nell'unità dello Spirito Santo, per tutti i secoli dei secoli. **Amen** 
 
 ### Liturgia della parola
 
@@ -183,38 +183,31 @@ Le grandi acque non possono spegnere l’amore nè i fiumi travolgerlo”.
 Parola di Dio.
 
 
-####  SALMO RESPONSORIALE (Sal 148)
+####  SALMO RESPONSORIALE (Sal 120)
 
-<br>_Rit. Lodiamo insieme il Signore: sia benedetto il suo nome._
+<br>_Rit. Veglia su di voi il Signore e vi protegge._
 
-Lodate il Signore dai cieli, <br>
-lodatelo nell’alto dei cieli. <br>
-Lodatelo, voi tutti, suoi angeli, <br>
-lodatelo, voi tutte, sue schiere. Rit. <br>
+Alzo gli occhi verso i monti:<br>
+da dove mi verrà l'aiuto?<br>
+Il mio aiuto viene dal Signore,<br>
+che ha fatto cielo e terra. Rit.<br>
 
-Lodatelo, sole e luna, <br>
-lodatelo, voi tutte, fulgide stelle. <br>
-Lodatelo, cieli dei cieli, <br>
-voi acque al di sopra dei cieli. Rit. <br>
+Non lascerà vacillare il tuo piede,<br>
+non si addormenterà il tuo custode.<br>
+Non si addormenterà, non prenderà sonno,<br>
+il custode d'Israele. Rit.<br>
 
-Lodate il Signore dalla terra, <br>
-monti e voi tutte, colline, <br>
-alberi da frutto e tutti voi, cedri, <br>
-voi fiere e tutte le bestie, <br>
-rettili e uccelli alati. Rit. <br>
+Il Signore è il tuo custode,<br>
+il Signore è come ombra che ti copre,<br>
+e sta alla tua destra.<br>
+Di giorno non ti colpirà il sole,<br>
+né la luna di notte. Rit.<br>
 
-I re della terra e i popoli tutti, <br>
-i governanti e i giudici della terra, <br>
-i giovani e le fanciulle, <br>
-i vecchi insieme ai bambini <br>
-lodino il nome del Signore: <br>
-perché solo il suo nome è sublime. Rit. <br>
-
-La sua gloria risplende sulla terra e nei cieli. <br>
-Egli ha sollevato la potenza del suo popolo. <br>
-È canto di lode per tutti i suoi fedeli,<br>
-per i figli di Israele, popolo che egli ama. Rit.<br>
-
+Il Signore ti proteggerà da ogni male,<br>
+egli proteggerà la tua vita.<br>
+Il Signore veglierà su di te,<br>
+quando esci e quando entri,<br>
+da ora e per sempre. Rit.<br>
 
 #### Dalla lettera agli Ebrei 13, l-4a.5-6
 
@@ -239,7 +232,7 @@ e ogni cosa vi sarà data in aggiunta. <br>
 
 «Io vi dico: per la vostra vita non affannatevi di quello che mangerete o berrete, e neanche per il vostro corpo, di quello che indosserete; la vita forse non vale più del cibo e il corpo più del vestito?
 
-Guardate gli uccelli del cielo: non seminano, né mietono,né ammassano nei granai; eppure il Padre vostro celeste li nutre. Non contate voi forse più di loro? E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua.vita?
+Guardate gli uccelli del cielo: non seminano, né mietono,né ammassano nei granai; eppure il Padre vostro celeste li nutre. Non contate voi forse più di loro? E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua vita?
 
 E perché vi affannate per il vestito? Osservate come crescono i gigli del campo: non lavorano e non filano. Eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro. Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà assai più per voi, gente di poca fede?
 Non affannatevi dunque dicendo: "Che cosa mangeremo? Che cosa berremo? Che cosa indosseremo?". Di tutte queste cose si preoccupano i pagani; il Padre vostro celeste infatti sa che ne avete bisogno.
@@ -269,18 +262,18 @@ siete venuti a celebrare il Matrimonio<br>
 senza alcuna costrizione, in piena libertà e consapevoli<br>
 del significato della vostra decisione?<br>
 
-Sposi: Sì.
+Sposi: **Sì.**
 
 Siete disposti, seguendo la via del Matrimonio,<br>
 ad amarvi e a onorarvi l’un l'altro per tutta la vita?<br>
 
-Sposi: Sì.
+Sposi: **Sì.**
 
 Siete disposti ad accogliere con amore<br>
 i figli che Dio vorrà donarvi<br>
 e a educarli secondo la legge di Cristo e della sua Chiesa?<br>
 
-Sposi: Sì.
+Sposi: **Sì.**
 
 ### Manifestazione del consenso
 
@@ -356,9 +349,9 @@ che vi sposiate e scegliate tutti i giorni della vostra vita. <br>
 
 *Ascoltaci, Signore*
 
-"Per Minou e Vincenzo, perché non si stanchino mai <br>
+Per Minou e Vincenzo, perché non si stanchino mai <br>
 di vedere il bello l'uno nell'altra<br>
-e in ogni giorno assieme, Preghiamo"<br>
+e in ogni giorno assieme, Preghiamo<br>
 
 *Ascoltaci, Signore*
 
