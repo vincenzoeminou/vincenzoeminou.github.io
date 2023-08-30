@@ -2,7 +2,9 @@
 layout              : page
 header              : no
 title: " "
-permalink           : "/messa/"       
+permalink           : "/messa/"  
+image:
+    title: "messa.png"     
 ---
 
 ### Ingresso dello sposo
@@ -165,20 +167,35 @@ Ascolta, o Signore, la nostra preghiera ed effondi con bontà la tua grazia su V
 #### Dal Cantico dei Cantici (Ct 2,8-16; 8,6-7)
 
 
-<br>Una voce! Il mio diletto!
-Eccolo, viene saltando per i monti, balzando per le colline.
-Somiglia il mio diletto a un capriolo o ad un cerbiatto.
-Eccolo, egli sta dietro il nostro muro; guarda dalla finestra, spia attraverso le inferriate.
-Ora parla il mio diletto e mi dice: «Alzati, amica mia, mia tutta bella, e vieni!
-O mia colomba, che stai nelle fenditure della roccia,
-nei nascondigli dei dirupi, mostrami il tuo viso,
-fammi sentire la tua voce, perché la tua voce è soave, il tuo viso è leggiadro».
- 
-Il mio diletto è per me e io per lui.
-Egli mi dice: “Mettimi come sigillo sul tuo cuore, come sigillo sul tuo braccio;
-perché forte come la morte è l’amore, tenace come gli inferi è la gelosia:
-le sue vampe son vampe di fuoco, una fiamma del Signore!
-Le grandi acque non possono spegnere l’amore nè i fiumi travolgerlo”.
+<br>Una voce! L’amato mio! <br>
+Eccolo, viene <br>
+saltando per i monti, <br>
+balzando per le colline. <br>
+L’amato mio somiglia a una gazzella<br>
+o ad un cerbiatto. <br>
+Eccolo, egli sta dietro il nostro muro; <br>
+guarda dalla finestra, <br>
+spia attraverso le inferriate. <br>
+Ora l’amato mio prende a dirmi: <br>
+«Alzati, amica mia, <br>
+mia bella, e vieni, presto!<br>
+O mia colomba, <br>
+che stai nelle fenditure della roccia, <br>
+nei nascondigli dei dirupi, <br>
+mostrami il tuo viso, <br>
+fammi sentire la tua voce, <br>
+perché la tua voce è soave, <br>
+il tuo viso è incantevole».<br>
+Il mio amato è mio e io sono sua. <br>
+Egli mi dice: <br>
+“Mettimi come sigillo sul tuo cuore, <br>
+come sigillo sul tuo braccio; <br>
+perché forte come la morte è l’amore, <br>
+tenace come il regno dei morti è la passione: <br>
+le sue vampe son vampe di fuoco, <br>
+una fiamma divina! <br>
+Le grandi acque non possono spegnere l’amore <br>
+né i fiumi travolgerlo”.<br>
 
 Parola di Dio.
 
@@ -211,7 +228,7 @@ da ora e per sempre. Rit.<br>
 
 #### Dalla lettera agli Ebrei 13, l-4a.5-6
 
-<br>Fratelli, perseverate nell'amore fraterno. Non dimenticate L’ospitalità; alcuni, praticandola, hanno accolto degli angeli senza saperlo. Ricordatevi dei carcerati, come se foste loro compagni di carcere, e di quelli che sono maltrattati, in quanto anche voi siete in un corpo mortale. Il matrimonio sia rispettato da tutti e il talamo sia senza macchia.
+<br>Fratelli, perseverate nell'amore fraterno. Non dimenticate L’ospitalità; alcuni, praticandola, hanno accolto degli angeli senza saperlo. Ricordatevi dei carcerati, come se foste loro compagni di carcere, e di quelli che sono maltrattati, in quanto anche voi siete in un corpo mortale. Il matrimonio sia rispettato da tutti e il talamo sia senza macchia. <br>
 La vostra condotta sia senza avarizia; accontentatevi di quello che avete, perché Dio stesso ha detto: Non ti lascerò e non ti abbandonerò. Così possiamo dire con fiducia: Il Signore è il mio aiuto, non temerò. Che mi potrà fare l'uomo?
 
 Parola di Dio.
@@ -234,7 +251,7 @@ e ogni cosa vi sarà data in aggiunta. <br>
 
 Guardate gli uccelli del cielo: non seminano, né mietono,né ammassano nei granai; eppure il Padre vostro celeste li nutre. Non contate voi forse più di loro? E chi di voi, per quanto si dia da fare, può aggiungere un'ora sola alla sua vita?
 
-E perché vi affannate per il vestito? Osservate come crescono i gigli del campo: non lavorano e non filano. Eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro. Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà assai più per voi, gente di poca fede?
+E perché vi affannate per il vestito? Osservate come crescono i gigli del campo: non lavorano e non filano. Eppure io vi dico che neanche Salomone, con tutta la sua gloria, vestiva come uno di loro. Ora se Dio veste così l'erba del campo, che oggi c'è e domani verrà gettata nel forno, non farà assai più per voi, gente di poca fede? <br>
 Non affannatevi dunque dicendo: "Che cosa mangeremo? Che cosa berremo? Che cosa indosseremo?". Di tutte queste cose si preoccupano i pagani; il Padre vostro celeste infatti sa che ne avete bisogno.
 
 Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta.
@@ -377,7 +394,7 @@ dice papa Francesco e così Signore noi ti preghiamo di preparare <br>
 Minou e Vincenzo a fare lo stesso. <br>
 Perché sappiano guardare ai propri errori e agli errori<br>
 dell'altro con mitezza e che possano addormentarsi <br>
-insieme e risvegliarsi semore l'uno accanto all'altra.<br>
+insieme e risvegliarsi sempre l'uno accanto all'altra.<br>
 
 *Ascoltaci, Signore*
 
@@ -459,7 +476,7 @@ e il miracolo del pane in terra si ripeterà. <br>
 
 <hr>
 
-### Benedizione nunziale
+### Benedizione nuziale
 
 <br>Fratelli e sorelle, <br>
 invochiamo su questi sposi, Minou e Vincenzo,<br>
